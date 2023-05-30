@@ -12,11 +12,11 @@ This work is aim to solve this problem by estimating the ego vehicle speed using
     |
     |____data
     |      |
-    |      |____c3d-sports1M_weights.h5
+    |      |____c3d-sports1M_weights.h5 (unable to be upload due to no more storage usage)
     |      |
-    |      |____test.mp4
+    |      |____test.mp4 (unable to be upload due to no more storage usage)
     |      |
-    |      |____train.mp4
+    |      |____train.mp4 (unable to be upload due to no more storage usage)
     |      |
     |      |____test_pred.txt
     |
